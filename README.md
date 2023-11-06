@@ -1,6 +1,6 @@
 # Image_Stitiching_OpenCV
 
-#Image stitching, or photo stitching, is the process of combining multiple photographic images with overlapping fields of view to produce a segmented panorama or high-resolution image.
+Image stitching, or photo stitching, is the process of combining multiple photographic images with overlapping fields of view to produce a segmented panorama or high-resolution image.
 
 Procedure:
 -	Input images are saved in a directory. The folder is accessed, and the images are saved in an array.
